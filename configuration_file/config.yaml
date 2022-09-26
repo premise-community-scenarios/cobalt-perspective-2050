@@ -14,37 +14,55 @@ production pathways:
       reference product: cobalt
       exists in original database: True
 
+  cobalt-copper-mining:
+    production volume:
+      variable: Production|Cobalt|From copper mining
+
+    ecoinvent alias:
+      name: copper-cobalt mining, industrial, economic allocation
+      reference product: copper-cobalt ore
+      exists in original database: True
+
     efficiency:
+      - variable: Efficiency|Copper|Diesel
+        reference year: 2010
+        includes:
+          technosphere:
+            - diesel, burned
+      - variable: Efficiency|Copper|Mining and production
+        reference year: 2010
+        includes:
+          technosphere:
+            - blasting
+            - conveyor belt
+            - steel, chromium steel 18/8, hot rolled
+            - mine infrastructure, open cast, non-ferrous metal
+            - ammonia, anhydrous, liquid
+          biosphere:
+            - Transformation, to mineral extraction site
+            - Occupation, mineral extraction site
+
+  cobalt_hydroxide:
+    production volume:
+      variable: Production|Cobalt|From copper mining
+
+    ecoinvent alias:
+      name: cobalt hydroxide, via hydrometallurigcal ore procesing, economic allocation
+      reference product: cobalt hydroxide
+      exists in original database: True
+
+    efficiency:
+      - variable: Efficiency|Copper|Tailings
+        reference year: 2010
+        includes:
+          technosphere:
+            - sulfidic tailings
+
       - variable: Efficiency|Copper|Energy
         reference year: 2010
         includes:
           technosphere:
             - electricity
-
-      - variable: Efficiency|Copper|Mining and production
-        reference year: 2010
-        includes:
-            technosphere:
-              - blasting
-              - conveyor belt
-              - steel, chromium steel 18/8, hot rolled
-              - mine infrastructure, open cast, non-ferrous metal
-              - ammonia, anhydrous, liquid
-            biosphere:
-              - Transformation, to mineral extraction site
-              - Occupation, mineral extraction site
-
-      - variable: Efficiency|Copper|Diesel
-        reference year: 2010
-        includes:
-            technosphere:
-              - diesel, burned
-
-      - variable: Efficiency|Copper|Tailings
-        reference year: 2010
-        includes:
-            technosphere:
-              - sulfidic tailings
  
   nickel_sulphide:
     production volume:
