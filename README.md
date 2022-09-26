@@ -71,6 +71,7 @@ This market is relinked to activities that consume metallic cobalt throughout th
 Flow diagram
 ------------
 
+![diagram ammonia markets](assets/flow_diagram.png)
 
 How to use it?
 --------------
