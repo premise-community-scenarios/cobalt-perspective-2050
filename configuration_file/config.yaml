@@ -219,7 +219,7 @@ markets:
 
     replaces:
       - name: market for cobalt
-        reference product: cobalt
+        product: cobalt
   
 
 
