@@ -100,5 +100,7 @@ How to use it?
                 cobalt2050, # <-- list datapackages here
             ] 
         )
+        
+    ndb.update_external_scenario()
 ```
 
