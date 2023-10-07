@@ -1,0 +1,183 @@
+﻿Database,cobalt_processes_ei38,,,,,,,,,
+,,,,,,,,,,
+Activity,"nickel mine operation, sulfidic ore",,,,,,,,,
+comment,"Cobalt production from nickel sulphide, originally created for ecoinvent cutoff v3.6 based on process 'nickel mine operation, sulfidic ore'. For more information, see https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.13258",,,,,,,,,
+location,GLO,,,,,,,,,
+reference product,cobalt,,,,,,,,,
+unit,kilogram,,,,,,,,,
+Exchanges,,,,,,,,,,
+name,amount,database,location,unit,categories,type,uncertainty type,loc,production volume,reference product
+Aluminium,1.52E-05,biosphere3,,kilogram,water::surface water,biosphere,0,1.06E-06,,
+Aluminium,0.001616068,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,0.000113111,,
+Arsenic,4.66E-06,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,3.26E-07,,
+"Arsenic, ion",7.09E-07,biosphere3,,kilogram,water::surface water,biosphere,0,4.96E-08,,
+"BOD5, Biological Oxygen Demand",0.001840078,biosphere3,,kilogram,water::surface water,biosphere,0,0.00012879,,
+"COD, Chemical Oxygen Demand",8.32E-08,biosphere3,,kilogram,water::surface water,biosphere,0,0.00012879,,
+"Cadmium, ion",0.001136048,biosphere3,,kilogram,water::surface water,biosphere,0,5.82E-09,,
+Calcium,0.120485079,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,7.95E-05,,
+"Calcium, ion",0.793633455,biosphere3,,kilogram,water::surface water,biosphere,0,0.008432931,,
+"Carbon dioxide, fossil",0.008800371,biosphere3,,kilogram,air,biosphere,0,0.055547594,,
+Carbon disulfide,3.86E-07,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,0.000615951,,
+"Chromium, ion",1.38E-07,biosphere3,,kilogram,water::surface water,biosphere,0,2.70E-08,,
+Cobalt,0.000976041,biosphere3,,kilogram,water::surface water,biosphere,0,9.63E-09,,
+Cobalt,0.001840078,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,6.83E-05,,
+Copper,0.000356015,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,2.49E-05,,
+"Copper, in ground",0.518421854,biosphere3,,kilogram,natural resource::in ground,biosphere,0,0.036285122,,
+"Copper, ion",1.93E-06,biosphere3,,kilogram,water::surface water,biosphere,0,1.35E-07,,
+Cyanide,0.000329614,biosphere3,,kilogram,water::surface water,biosphere,0,2.31E-05,,
+"DOC, Dissolved Organic Carbon",8.00E-12,biosphere3,,kilogram,water::surface water,biosphere,0,5.02E-05,,
+"Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",0.000912038,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,5.60E-13,,
+Dissolved solids,0.00071763,biosphere3,,kilogram,water::surface water,biosphere,0,6.38E-05,,
+"Iron, ion",5.12E-05,biosphere3,,kilogram,water::surface water,biosphere,0,3.58E-06,,
+Lead,2.82E-05,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,1.97E-06,,
+Lead,6.54E-07,biosphere3,,kilogram,water::surface water,biosphere,0,4.58E-08,,
+Magnesium,0.000968041,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,6.78E-05,,
+Manganese,4.34E-06,biosphere3,,kilogram,water::surface water,biosphere,0,3.04E-07,,
+Mercury,9.52E-09,biosphere3,,kilogram,water::surface water,biosphere,0,6.66E-10,,
+"NMVOC, non-methane volatile organic compounds, unspecified origin",0.000423218,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,1.12E-05,,
+Nickel,1.008042493,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,2.96E-05,,
+Nickel,4.50E-06,biosphere3,,kilogram,natural resource::in ground,biosphere,0,0.070554404,,
+"Nickel, ion",0.004008169,biosphere3,,kilogram,water::surface water,biosphere,0,3.15E-07,,
+"Nitrogen, organic bound",0.000160007,biosphere3,,kilogram,water::surface water,biosphere,0,0.000280538,,
+"Particulates, < 2.5 um",0.016480695,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,0.001153509,,
+"Particulates, > 10 um",0.00167207,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,0.000117031,,
+"Particulates, > 2.5 um, and < 10um",0.014560614,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,0.001019119,,
+Silver,1.39E-07,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,9.74E-09,,
+Sulfate,0.415217503,biosphere3,,kilogram,water::surface water,biosphere,0,0.029061695,,
+Sulfur dioxide,1.200050587,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,0.083993338,,
+"TOC, Total Organic Carbon",5.22E-06,biosphere3,,kilogram,water::surface water,biosphere,0,5.02E-05,,
+Tin,2.89E-07,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,3.66E-07,,
+Tin ion,0.00071763,biosphere3,,kilogram,water::surface water,biosphere,0,2.02E-08,,
+Water,0.175583402,biosphere3,,cubic meter,water,biosphere,0,0.012289345,,
+Water,0.030985306,biosphere3,,cubic meter,air,biosphere,0,0.002168708,,
+"Water, river",0.030561288,biosphere3,,cubic meter,natural resource::in water,biosphere,0,0.00213903,,
+"Water, well, in ground",0.176007419,biosphere3,,cubic meter,natural resource::in water,biosphere,0,0.012319023,,
+Zinc,8.08E-05,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,5.66E-06,,
+"Zinc, ion",1.42E-05,biosphere3,,kilogram,water::surface water,biosphere,0,9.97E-07,,
+"nickel mine operation, sulfidic ore",1,cobalt_processes_ei38,GLO,kilogram,,production,0,1,,cobalt
+"electricity production, hydro, run-of-river",2.824018806,ei38,RoW,kilowatt hour,,technosphere,0,0.491641004,,"electricity, high voltage"
+market for aluminium hydroxide factory,3.13E-09,ei38,GLO,unit,,technosphere,0,5.17E-11,,aluminium hydroxide factory
+"market for ammonia, anhydrous, liquid",0.001307639,ei38,RER,kilogram,,technosphere,0,0.000480436,,"ammonia, anhydrous, liquid"
+"market for ammonia, anhydrous, liquid",0.011448866,ei38,RoW,kilogram,,technosphere,0,0.004206393,,"ammonia, anhydrous, liquid"
+market for blasting,0.025299641,ei38,GLO,kilogram,,technosphere,0,0.009295263,,blasting
+"market for cement, CEM II/A",0.762067652,ei38,Europe without Switzerland,kilogram,,technosphere,0,0.053338256,,"cement, CEM II/A"
+"market for cement, ART",0.140232272,ei38,CO,kilogram,,technosphere,0,0.009815067,,"cement, ART"
+"market for cement, CEM II/A",0.005794273,ei38,CH,kilogram,,technosphere,0,0.00040555,,"cement, CEM II/A"
+"market for cement, CEM II/A",1.988027886,ei38,RoW,kilogram,,technosphere,0,0.139145049,,"cement, CEM II/A"
+"market for chemical, organic",0.287068644,ei38,GLO,kilogram,,technosphere,0,0.00138869,,"chemical, organic"
+"market for chemical, inorganic",0.084053157,ei38,GLO,kilogram,,technosphere,0,0.004742824,,"chemical, inorganic"
+market for conveyor belt,6.40E-07,ei38,GLO,meter,,technosphere,0,2.35E-07,,conveyor belt
+"market for diesel, burned in building machine",0.668707253,ei38,GLO,megajoule,,technosphere,0,0.627150256,,"diesel, burned in building machine"
+market for hydrogen cyanide,0.00407768,ei38,RER,kilogram,,technosphere,0,6.74E-05,,hydrogen cyanide
+market for hydrogen cyanide,0.008970895,ei38,RoW,kilogram,,technosphere,0,0.000148213,,hydrogen cyanide
+"market for hydrogen, liquid",0.002772111,ei38,RER,kilogram,,technosphere,0,4.58E-05,,"hydrogen, liquid"
+"market for hydrogen, liquid",0.012682824,ei38,RoW,kilogram,,technosphere,0,0.00020954,,"hydrogen, liquid"
+"market for lime, packed",2.521027994,ei38,Europe without Switzerland,kilogram,,technosphere,0,0.041651333,,"lime, packed"
+"market for lime, packed",0.064185405,ei38,CH,kilogram,,technosphere,0,0.001060443,,"lime, packed"
+"market for lime, packed",5.04057703,ei38,RoW,kilogram,,technosphere,0,0.083278231,,"lime, packed"
+"market for mine infrastructure, underground, non-ferrous metal",8.38E-10,ei38,GLO,unit,,technosphere,0,3.08E-10,,"mine infrastructure, underground, non-ferrous metal"
+market for nickel smelter slag,-1.732566064,ei38,GLO,kilogram,,technosphere,0,-0.615951144,,nickel smelter slag
+market for non-ferrous metal smelter,1.56E-10,ei38,GLO,unit,,technosphere,0,2.58E-12,,non-ferrous metal smelter
+market for sand,0.000545898,ei38,IN,kilogram,,technosphere,0,0.000200567,,sand
+market for sand,0.105151524,ei38,BR,kilogram,,technosphere,0,0.038633396,,sand
+market for sand,0.001259004,ei38,CH,kilogram,,technosphere,0,0.000462567,,sand
+market for sand,6.842824377,ei38,RoW,kilogram,,technosphere,0,2.514100941,,sand
+market for silica sand,1.760074194,ei38,GLO,kilogram,,technosphere,0,0.123190229,,silica sand
+"market for sulfidic tailings, from nickel mine operation",-1.400966794,ei38,ZA,kilogram,,technosphere,0,-0.498063028,,"sulfidic tailings, from nickel mine operation"
+"market for sulfidic tailings, from nickel mine operation",-5.800180996,ei38,CA,kilogram,,technosphere,0,-2.062044383,,"sulfidic tailings, from nickel mine operation"
+"market for sulfidic tailings, from nickel mine operation",-6.662772016,ei38,RU,kilogram,,technosphere,0,-2.368707393,,"sulfidic tailings, from nickel mine operation"
+"market for sulfidic tailings, from nickel mine operation",-1.870930178,ei38,RoW,kilogram,,technosphere,0,-0.665141496,,"sulfidic tailings, from nickel mine operation"
+"market group for electricity, high voltage",1.321949578,ei38,GLO,kilowatt hour,,technosphere,0,0.230141746,,"electricity, high voltage"
+"market group for electricity, medium voltage",0.559657485,ei38,GLO,kilowatt hour,,technosphere,0,0.097432272,,"electricity, medium voltage"
+"market group for heat, district or industrial, natural gas",2.077847231,ei38,GLO,megajoule,,technosphere,0,0.819215022,,"heat, district or industrial, natural gas"
+"market group for heat, district or industrial, other than natural gas",4.076869772,ei38,GLO,megajoule,,technosphere,0,1.607352508,,"heat, district or industrial, other than natural gas"
+,,,,,,,,,,
+Activity,cobalt production from sulphide matte,,,,,,,,,
+comment,"Cobalt production from nickel laterite, originally created for ecoinvent cutoff v3.6. For more information, see https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.13258",,,,,,,,,
+location,GLO,,,,,,,,,
+reference product,cobalt,,,,,,,,,
+unit,kilogram,,,,,,,,,
+Exchanges,,,,,,,,,,
+name,amount,database,location,unit,type,uncertainty type,loc,production volume,reference product,
+cobalt production from sulphide matte,1,cobalt_processes_ei38,GLO,kilogram,production,0,1,,cobalt,
+"electricity production, hydro, run-of-river",2.265818182,ei38,RoW,kilowatt hour,technosphere,0,1.9146,,"electricity, high voltage",
+ferronickel production,1.414736842,cobalt_processes_ei38,GLO,kilogram,technosphere,0,1.068661501,,sulphide matte,
+market for aluminium hydroxide factory,3.14E-09,ei38,GLO,unit,technosphere,0,8.50E-10,,aluminium hydroxide factory,
+"market for ammonia, anhydrous, liquid",0.011115046,ei38,RoW,kilogram,technosphere,0,0.069095011,,"ammonia, anhydrous, liquid",
+"market for ammonia, anhydrous, liquid",0.001269512,ei38,RER,kilogram,technosphere,,,,"ammonia, anhydrous, liquid",
+"market for chemical, organic",0.287523248,ei38,GLO,kilogram,technosphere,0,0.022810886,,"chemical, organic",
+"market for chemical, inorganic",0.084186264,ei38,GLO,kilogram,technosphere,0,0.077906535,,"chemical, inorganic",
+market for hydrogen cyanide,0.004084137,ei38,RER,kilogram,technosphere,0,0.001106627,,hydrogen cyanide,
+market for hydrogen cyanide,0.008985101,ei38,RoW,kilogram,technosphere,0,0.002434579,,hydrogen cyanide,
+"market for hydrogen, liquid",0.002776501,ei38,RER,kilogram,technosphere,0,0.000752313,,"hydrogen, liquid",
+"market for hydrogen, liquid",0.012702909,ei38,RoW,kilogram,technosphere,0,0.003441946,,"hydrogen, liquid",
+"market group for electricity, high voltage",1.510545455,ei38,GLO,kilowatt hour,technosphere,0,1.2764,,"electricity, high voltage",
+,,,,,,,,,,
+Activity,ferronickel production,,,,,,,,,
+comment,"Cobalt production from nickel laterite, originally created for ecoinvent cutoff v3.6 based on process 'ferronickel production, 25% Ni'. For more information, see https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.13258",,,,,,,,,
+location,GLO,,,,,,,,,
+reference product,sulphide matte,,,,,,,,,
+unit,kilogram,,,,,,,,,
+Exchanges,,,,,,,,,,
+name,amount,database,location,unit,categories,type,uncertainty type,loc,production volume,reference product
+Aluminium,8.19E-08,biosphere3,,kilogram,water::surface water,biosphere,0,4.20E-08,,
+Antimony,2.40E-10,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,1.23E-10,,
+Arsenic,1.70E-06,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,8.74E-07,,
+"Arsenic, ion",1.81E-08,biosphere3,,kilogram,water::surface water,biosphere,0,9.29E-09,,
+"BOD5, Biological Oxygen Demand",3.11E-09,biosphere3,,kilogram,water::surface water,biosphere,0,5.08E-06,,
+Beryllium II,9.88E-06,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,1.60E-09,,
+Boron,1.20E-08,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,6.15E-09,,
+"COD, Chemical Oxygen Demand",1.32E-10,biosphere3,,kilogram,water::surface water,biosphere,0,5.08E-06,,
+Cadmium,2.53E-09,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,6.77E-11,,
+"Cadmium, ion",0.000650447,biosphere3,,kilogram,water::surface water,biosphere,0,1.30E-09,,
+"Calcium, ion",0.024469688,biosphere3,,kilogram,water::surface water,biosphere,0,0.000334137,,
+"Carbon dioxide, fossil",1.20E-07,biosphere3,,kilogram,air,biosphere,0,0.012570168,,
+Chromium,2.39E-08,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,6.15E-08,,
+"Chromium, ion",7.41E-10,biosphere3,,kilogram,water::surface water,biosphere,0,1.23E-08,,
+Cobalt,3.58E-06,biosphere3,,kilogram,water::surface water,biosphere,0,3.81E-10,,
+Cobalt,9.88E-06,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,1.84E-06,,
+Copper,1.17E-05,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,6.01E-06,,
+"Copper, ion",5.06E-08,biosphere3,,kilogram,water::surface water,biosphere,0,2.60E-08,,
+"DOC, Dissolved Organic Carbon",1.19E-12,biosphere3,,kilogram,water::surface water,biosphere,0,1.98E-06,,
+"Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",4.90E-06,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,6.09E-13,,
+Dissolved solids,3.86E-06,biosphere3,,kilogram,water::surface water,biosphere,0,2.52E-06,,
+Fluorine,1.14E-06,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,5.85E-07,,
+Iron,0.148393573,biosphere3,,kilogram,natural resource::in ground,biosphere,0,0.076230322,,
+"Iron, ion",2.76E-07,biosphere3,,kilogram,water::surface water,biosphere,0,1.42E-07,,
+Lead,9.10E-06,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,4.67E-06,,
+Lead,1.57E-08,biosphere3,,kilogram,water::surface water,biosphere,0,8.08E-09,,
+Manganese,2.34E-08,biosphere3,,kilogram,water::surface water,biosphere,0,1.20E-08,,
+Manganese,1.14E-06,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,5.85E-07,,
+Mercury,2.69E-10,biosphere3,,kilogram,water::surface water,biosphere,0,1.38E-10,,
+Mercury,5.99E-11,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,3.08E-11,,
+Nickel,3.77E-06,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,1.94E-06,,
+Nickel,0.051525546,biosphere3,,kilogram,natural resource::in ground,biosphere,0,0.026468862,,
+"Nickel, ion",4.05E-08,biosphere3,,kilogram,water::surface water,biosphere,0,2.08E-08,,
+"Nitrogen, organic bound",2.16E-05,biosphere3,,kilogram,water::surface water,biosphere,0,1.11E-05,,
+"Occupation, mineral extraction site",0.000197264,biosphere3,,square meter-year,natural resource::land,biosphere,0,0.000100334,,
+"Particulates, < 2.5 um",0.000609254,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,0.000312976,,
+"Particulates, > 10 um",8.85E-05,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,4.55E-05,,
+"Particulates, > 2.5 um, and < 10um",0.000618699,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,0.000317828,,
+Selenium,5.99E-11,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,3.08E-11,,
+Sulfate,0.00223472,biosphere3,,kilogram,water::surface water,biosphere,0,0.001147984,,
+"TOC, Total Organic Carbon",1.90E-06,biosphere3,,kilogram,water::surface water,biosphere,0,1.98E-06,,
+Tin,2.34E-08,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,9.77E-07,,
+Tin ion,3.86E-06,biosphere3,,kilogram,water::surface water,biosphere,0,1.20E-08,,
+"Transformation, from unspecified",6.51E-06,biosphere3,,square meter,natural resource::land,biosphere,0,3.34E-06,,
+"Transformation, to mineral extraction site",6.58E-06,biosphere3,,square meter,natural resource::land,biosphere,0,3.34E-06,,
+Zinc,2.97E-05,biosphere3,,kilogram,air::non-urban air or from high stacks,biosphere,0,1.52E-05,,
+"Zinc, ion",1.41E-07,biosphere3,,kilogram,water::surface water,biosphere,0,7.25E-08,,
+ferronickel production,1,cobalt_processes_ei38,GLO,kilogram,,production,0,1,,sulphide matte
+"electricity production, hydro, run-of-river",0.681316256,ei38,RoW,kilowatt hour,,technosphere,0,0.339056063,,"electricity, high voltage"
+market for blasting,0.00014363,ei38,GLO,kilogram,,technosphere,0,7.31E-05,,blasting
+market for conveyor belt,9.58E-08,ei38,GLO,meter,,technosphere,0,4.87E-08,,conveyor belt
+"market for diesel, burned in building machine",0.192367999,ei38,GLO,megajoule,,technosphere,0,0.116168129,,"diesel, burned in building machine"
+"market for lime, packed",0.017089821,ei38,Europe without Switzerland,kilogram,,technosphere,0,0.009444695,,"lime, packed"
+"market for lime, packed",0.000435107,ei38,CH,kilogram,,technosphere,0,0.000240462,,"lime, packed"
+"market for lime, packed",0.034169616,ei38,RoW,kilogram,,technosphere,0,0.01888385,,"lime, packed"
+"market for mine infrastructure, open cast, non-ferrous metal",2.39E-10,ei38,GLO,unit,,technosphere,0,1.22E-10,,"mine infrastructure, open cast, non-ferrous metal"
+market for nickel smelter slag,-1.548418904,ei38,GLO,kilogram,,technosphere,0,-0.771633497,,nickel smelter slag
+market for non-ferrous metal smelter,7.14E-12,ei38,GLO,unit,,technosphere,0,3.95E-12,,non-ferrous metal smelter
+"market group for electricity, high voltage",0.45420676,ei38,GLO,kilowatt hour,,technosphere,0,0.226035346,,"electricity, high voltage"
+"market group for heat, district or industrial, natural gas",3.374712104,ei38,GLO,megajoule,,technosphere,0,1.720575282,,"heat, district or industrial, natural gas"
+"market group for heat, district or industrial, other than natural gas",4.226125876,ei38,GLO,megajoule,,technosphere,0,2.165036176,,"heat, district or industrial, other than natural gas"
