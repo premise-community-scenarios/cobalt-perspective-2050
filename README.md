@@ -85,22 +85,24 @@ How to use it?
     
     fp = r"https://raw.githubusercontent.com/premise-community-scenarios/cobalt-perspective-2050/main/datapackage.json"
     cobalt2050 = Package(fp)
+
+    external_scenarios = [
+        {"scenario": "Business As Usual", "data": cobalt2050},
+    ]
     
     bw.projects.set_current("your_bw_project")
+
     
     ndb = NewDatabase(
             scenarios = [
-                {"model":"image", "pathway":"SSP2-Base", "year":2050,},
-                {"model":"image", "pathway":"SSP2-RCP26", "year":2030,},
+                {"model":"image", "pathway":"SSP2-Base", "year":2050, "external scenarios": external_scenarios},
+                {"model":"image", "pathway":"SSP2-RCP26", "year":2030, "external scenarios": external_scenarios},
             ],        
             source_db="ecoinvent 3.8 cutoff",
             source_version="3.8",
             key='xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
-            external_scenarios=[
-                cobalt2050, # <-- list datapackages here
-            ] 
         )
         
-    ndb.update_external_scenario()
+    ndb.update("external") # or ndb.update() to include the IAM scenario and the external one
 ```
 
